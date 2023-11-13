@@ -2,16 +2,25 @@
 // This is the file you will want to update to customize your page.
 
 // Import Google fonts here
-
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Nunito&family=Source+Sans+3&family=Wix+Madefor+Display:wght@800&display=swap');
 
 
 // Include any default variable overrides here (colors, font sizes, font family, etc..)
+$primary:       #A04ADD;
+$secondary:     #3B53C7;
+$success:       #A4D882;
+$info:          #59C1EF;
+$warning:       #FFF689;
+$danger:        #E5446D;
+$light:         #f2f2f2;
+$dark:          #181853;
+
+
 
 
 
 // Adjust nav link hover color here
-
-
+$link-hover-color:          $primary;
 
 // Typography
 // Change font family for base text
